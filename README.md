@@ -1,1 +1,1 @@
-## Small bits of Tasks and Project that I did throughout my CPP learning journey. 
+## Small bits of Tasks and Projects that I did throughout my CPP learning journey. 
